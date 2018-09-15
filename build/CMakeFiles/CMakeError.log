@@ -1,0 +1,43 @@
+Performing C++ SOURCE FILE Test MIOPEN_HAS_address failed with the following output:
+Change Dir: C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/MinGW/bin/mingw32-make.exe" "cmTC_a0ac1/fast"
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_a0ac1.dir\build.make CMakeFiles/cmTC_a0ac1.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_a0ac1.dir/src.cxx.obj
+C:\MinGW\bin\g++.exe    -w -DMIOPEN_HAS_address   -fsanitize=address -fno-sanitize-recover=address -o CMakeFiles\cmTC_a0ac1.dir\src.cxx.obj -c C:\Users\Adil\Desktop\MLOpen-1-1.5.x\build\CMakeFiles\CMakeTmp\src.cxx
+Linking CXX executable cmTC_a0ac1.exe
+"C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_a0ac1.dir\link.txt --verbose=1
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_a0ac1.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_a0ac1.dir/objects.a @CMakeFiles\cmTC_a0ac1.dir\objects1.rsp
+C:\MinGW\bin\g++.exe  -w -DMIOPEN_HAS_address    -Wl,--whole-archive CMakeFiles\cmTC_a0ac1.dir/objects.a -Wl,--no-whole-archive  -o cmTC_a0ac1.exe -Wl,--out-implib,libcmTC_a0ac1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_a0ac1.dir\linklibs.rsp
+CMakeFiles\cmTC_a0ac1.dir/objects.a(src.cxx.obj):src.cxx:(.text+0x21): undefined reference to `__asan_init'
+CMakeFiles\cmTC_a0ac1.dir/objects.a(src.cxx.obj):src.cxx:(.text+0x26): undefined reference to `__asan_version_mismatch_check_v8'
+collect2.exe: error: ld returned 1 exit status
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_a0ac1.dir\build.make:88: cmTC_a0ac1.exe] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:120: cmTC_a0ac1/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test MIOPEN_HAS_thread failed with the following output:
+Change Dir: C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/MinGW/bin/mingw32-make.exe" "cmTC_ca70a/fast"
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_ca70a.dir\build.make CMakeFiles/cmTC_ca70a.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ca70a.dir/src.cxx.obj
+C:\MinGW\bin\g++.exe    -w -DMIOPEN_HAS_thread   -fsanitize=thread -fno-sanitize-recover=thread -o CMakeFiles\cmTC_ca70a.dir\src.cxx.obj -c C:\Users\Adil\Desktop\MLOpen-1-1.5.x\build\CMakeFiles\CMakeTmp\src.cxx
+Linking CXX executable cmTC_ca70a.exe
+"C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_ca70a.dir\link.txt --verbose=1
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_ca70a.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_ca70a.dir/objects.a @CMakeFiles\cmTC_ca70a.dir\objects1.rsp
+C:\MinGW\bin\g++.exe  -w -DMIOPEN_HAS_thread    -Wl,--whole-archive CMakeFiles\cmTC_ca70a.dir/objects.a -Wl,--no-whole-archive  -o cmTC_ca70a.exe -Wl,--out-implib,libcmTC_ca70a.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_ca70a.dir\linklibs.rsp
+CMakeFiles\cmTC_ca70a.dir/objects.a(src.cxx.obj):src.cxx:(.text+0x21): undefined reference to `__tsan_init'
+collect2.exe: error: ld returned 1 exit status
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_ca70a.dir\build.make:88: cmTC_ca70a.exe] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:120: cmTC_ca70a/fast] Error 2
+
+Source file was:
+int main() { return 0; }

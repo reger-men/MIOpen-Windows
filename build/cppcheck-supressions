@@ -1,0 +1,9 @@
+ConfigurationNotChecked
+unmatchedSuppression
+unusedFunction
+noExplicitConstructor
+passedByValue
+unusedStructMember
+useInitializationList:*test/*.cpp
+*:*.cl
+*:/usr/*

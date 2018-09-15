@@ -1,0 +1,1 @@
+ -LC:/MinGW/git/usr/lib/perl5/core_perl/auto/Digest/MD5  -LC:/MinGW/bin -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

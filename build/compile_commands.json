@@ -1,0 +1,582 @@
+[
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/addkernels",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1   -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\addkernels.dir\\include_inliner.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\addkernels\\include_inliner.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/addkernels/include_inliner.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/addkernels",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1   -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\addkernels.dir\\addkernels.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\addkernels\\addkernels.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/addkernels/addkernels.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\check_numerics.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\check_numerics.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/check_numerics.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\convolution.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\convolution.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/convolution.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\convolution_api.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\convolution_api.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/convolution_api.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\convolution_fft.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\convolution_fft.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/convolution_fft.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\db.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\db.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/db.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\db_record.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\db_record.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/db_record.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\find_controls.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\find_controls.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/find_controls.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\fusion.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\fusion.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/fusion.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\op_args.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\op_args.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/op_args.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\operator.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\operator.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/operator.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\fused_api.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\fused_api.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/fused_api.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\load_file.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\load_file.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/load_file.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\pooling_api.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\pooling_api.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/pooling_api.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\kernel_warnings.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\kernel_warnings.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/kernel_warnings.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\logger.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\logger.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/logger.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\lock_file.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\lock_file.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/lock_file.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\lrn_api.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\lrn_api.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/lrn_api.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\activ_api.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\activ_api.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/activ_api.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\handle_api.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\handle_api.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/handle_api.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\softmax_api.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\softmax_api.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/softmax_api.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\batch_norm.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\batch_norm.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/batch_norm.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\batch_norm_api.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\batch_norm_api.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/batch_norm_api.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\rnn.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\rnn.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/rnn.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\rnn_api.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\rnn_api.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/rnn_api.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\temp_file.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\temp_file.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/temp_file.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\problem_description.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\problem_description.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/problem_description.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\md_graph.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\md_graph.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/md_graph.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\tensor.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\tensor.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/tensor.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\tensor_api.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\tensor_api.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/tensor_api.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\solver.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\solver.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/solver.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\solver\\conv_asm_3x3u.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\solver\\conv_asm_3x3u.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/solver/conv_asm_3x3u.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\solver\\conv_asm_1x1u.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\solver\\conv_asm_1x1u.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/solver/conv_asm_1x1u.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\solver\\conv_asm_1x1u_bias_activ.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\solver\\conv_asm_1x1u_bias_activ.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/solver/conv_asm_1x1u_bias_activ.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\solver\\conv_asm_5x10u2v2f1.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\solver\\conv_asm_5x10u2v2f1.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/solver/conv_asm_5x10u2v2f1.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\solver\\conv_asm_5x10u2v2b1.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\solver\\conv_asm_5x10u2v2b1.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/solver/conv_asm_5x10u2v2b1.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\solver\\conv_asm_7x7c3h224w224k64u2v2p3q3f1.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\solver\\conv_asm_7x7c3h224w224k64u2v2p3q3f1.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/solver/conv_asm_7x7c3h224w224k64u2v2p3q3f1.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\solver\\conv_asm_dir_BwdWrW3x3.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\solver\\conv_asm_dir_BwdWrW3x3.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/solver/conv_asm_dir_BwdWrW3x3.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\solver\\conv_asm_dir_BwdWrW1x1.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\solver\\conv_asm_dir_BwdWrW1x1.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/solver/conv_asm_dir_BwdWrW1x1.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\solver\\conv_bin_wino3x3U.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\solver\\conv_bin_wino3x3U.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/solver/conv_bin_wino3x3U.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\solver\\conv_bin_winoRxS.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\solver\\conv_bin_winoRxS.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/solver/conv_bin_winoRxS.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\solver\\conv_ocl_dir2D_bwdWrW_2.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\solver\\conv_ocl_dir2D_bwdWrW_2.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/solver/conv_ocl_dir2D_bwdWrW_2.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\solver\\conv_ocl_dir2D_bwdWrW_53.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\solver\\conv_ocl_dir2D_bwdWrW_53.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/solver/conv_ocl_dir2D_bwdWrW_53.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\solver\\conv_ocl_dir2D_bwdWrW_1x1.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\solver\\conv_ocl_dir2D_bwdWrW_1x1.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/solver/conv_ocl_dir2D_bwdWrW_1x1.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\solver\\conv_ocl_dir2Dfwdgen.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\solver\\conv_ocl_dir2Dfwdgen.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/solver/conv_ocl_dir2Dfwdgen.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\solver\\conv_ocl_dir2D11x11.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\solver\\conv_ocl_dir2D11x11.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/solver/conv_ocl_dir2D11x11.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\solver\\conv_ocl_dir2D3x3.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\solver\\conv_ocl_dir2D3x3.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/solver/conv_ocl_dir2D3x3.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\solver\\conv_ocl_dir2Dfwd_exhaustive_search.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\solver\\conv_ocl_dir2Dfwd_exhaustive_search.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/solver/conv_ocl_dir2Dfwd_exhaustive_search.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\solver\\conv_ocl_dir2Dfwd.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\solver\\conv_ocl_dir2Dfwd.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/solver/conv_ocl_dir2Dfwd.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\solver\\conv_ocl_dir2Dfwd1x1.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\solver\\conv_ocl_dir2Dfwd1x1.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/solver/conv_ocl_dir2Dfwd1x1.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\tmp_dir.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\tmp_dir.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/tmp_dir.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\binary_cache.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\binary_cache.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/binary_cache.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\md5.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\md5.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/md5.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\activ.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\activ.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/activ.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\kernel_cache.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\kernel_cache.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/kernel_cache.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\lrn.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\lrn.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/lrn.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\mlo_dir_conv.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\mlo_dir_conv.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/mlo_dir_conv.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\ocl\\activ_ocl.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\ocl\\activ_ocl.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/ocl/activ_ocl.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\ocl\\batchnormocl.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\ocl\\batchnormocl.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/ocl/batchnormocl.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\ocl\\convolutionocl.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\ocl\\convolutionocl.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/ocl/convolutionocl.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\ocl\\convolutionocl_fft.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\ocl\\convolutionocl_fft.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/ocl/convolutionocl_fft.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\ocl\\lrn_ocl.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\ocl\\lrn_ocl.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/ocl/lrn_ocl.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\ocl\\mloNeuron.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\ocl\\mloNeuron.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/ocl/mloNeuron.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\ocl\\mloNorm.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\ocl\\mloNorm.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/ocl/mloNorm.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\ocl\\mloPooling.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\ocl\\mloPooling.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/ocl/mloPooling.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\ocl\\pooling_ocl.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\ocl\\pooling_ocl.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/ocl/pooling_ocl.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\ocl\\tensorocl.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\ocl\\tensorocl.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/ocl/tensorocl.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\ocl\\softmaxocl.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\ocl\\softmaxocl.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/ocl/softmaxocl.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\ocl\\rnnocl.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\ocl\\rnnocl.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/ocl/rnnocl.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\ocl\\utilocl.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\ocl\\utilocl.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/ocl/utilocl.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\ocl\\gcn_asm_utils.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\ocl\\gcn_asm_utils.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/ocl/gcn_asm_utils.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\pooling.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\pooling.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/pooling.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\ocl\\fusionopconvocl.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\ocl\\fusionopconvocl.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/ocl/fusionopconvocl.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\ocl\\fusionopbiasbnactivocl.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\ocl\\fusionopbiasbnactivocl.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/ocl/fusionopbiasbnactivocl.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\__\\db_path.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\build\\db_path.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/db_path.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\__\\kernel.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\build\\kernel.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/kernel.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\ocl\\handleocl.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\ocl\\handleocl.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/ocl/handleocl.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\ocl_kernel.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\ocl_kernel.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/ocl_kernel.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\ocl\\oclerrors.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\ocl\\oclerrors.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/ocl/oclerrors.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 -DMIOpen_EXPORTS @CMakeFiles/MIOpen.dir/includes_CXX.rsp  -w -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpen.dir\\ocl\\clhelper.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\src\\ocl\\clhelper.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/src/ocl/clhelper.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/driver",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/MIOpenDriver.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpenDriver.dir\\main.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\driver\\main.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/driver/main.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/driver",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/MIOpenDriver.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -std=c++14 -o CMakeFiles\\MIOpenDriver.dir\\InputFlags.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\driver\\InputFlags.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/driver/InputFlags.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_lrn_test.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_lrn_test.dir\\lrn_test.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\lrn_test.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/lrn_test.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_bn_spatial_test.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_bn_spatial_test.dir\\bn_spatial_test.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\bn_spatial_test.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/bn_spatial_test.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_cbna_inference.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_cbna_inference.dir\\cbna_inference.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\cbna_inference.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/cbna_inference.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_cba_inference.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_cba_inference.dir\\cba_inference.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\cba_inference.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/cba_inference.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_lstm.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_lstm.dir\\lstm.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\lstm.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/lstm.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_main.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_main.dir\\main.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\main.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/main.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_gru.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_gru.dir\\gru.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\gru.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/gru.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_activation.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_activation.dir\\activation.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\activation.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/activation.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_conv_bias.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_conv_bias.dir\\conv_bias.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\conv_bias.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/conv_bias.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_bn_3d_peract_test.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_bn_3d_peract_test.dir\\bn_3d_peract_test.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\bn_3d_peract_test.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/bn_3d_peract_test.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_bn_3d_spatial_test.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_bn_3d_spatial_test.dir\\bn_3d_spatial_test.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\bn_3d_spatial_test.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/bn_3d_spatial_test.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_bn_aux.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_bn_aux.dir\\bn_aux.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\bn_aux.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/bn_aux.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_custom_allocator.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_custom_allocator.dir\\custom_allocator.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\custom_allocator.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/custom_allocator.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_bn_peract_test.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_bn_peract_test.dir\\bn_peract_test.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\bn_peract_test.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/bn_peract_test.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_cache.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_cache.dir\\cache.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\cache.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/cache.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_check_numerics_test.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_check_numerics_test.dir\\check_numerics_test.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\check_numerics_test.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/check_numerics_test.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_conv.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_conv.dir\\conv.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\conv.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/conv.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_handle_test.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_handle_test.dir\\handle_test.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\handle_test.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/handle_test.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_mdgraph.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_mdgraph.dir\\mdgraph.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\mdgraph.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/mdgraph.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_na_inference.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_na_inference.dir\\na_inference.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\na_inference.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/na_inference.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_perfdb.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_perfdb.dir\\perfdb.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\perfdb.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/perfdb.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_pooling_test.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_pooling_test.dir\\pooling_test.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\pooling_test.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/pooling_test.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_rnn_vanilla.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_rnn_vanilla.dir\\rnn_vanilla.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\rnn_vanilla.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/rnn_vanilla.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_soft_max.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_soft_max.dir\\soft_max.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\soft_max.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/soft_max.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_solver.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_solver.dir\\solver.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\solver.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/solver.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_tensor_copy.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_tensor_copy.dir\\tensor_copy.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\tensor_copy.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/tensor_copy.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_tensor_ops.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_tensor_ops.dir\\tensor_ops.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\tensor_ops.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/tensor_ops.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_tensor_scale.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_tensor_scale.dir\\tensor_scale.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\tensor_scale.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/tensor_scale.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_tensor_set.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_tensor_set.dir\\tensor_set.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\tensor_set.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/tensor_set.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_tensor_test.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_tensor_test.dir\\tensor_test.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\tensor_test.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/tensor_test.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_test_errors.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_test_errors.dir\\test_errors.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\test_errors.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/test_errors.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_type_name.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_type_name.dir\\type_name.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\type_name.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/type_name.cpp"
+},
+{
+  "directory": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/build/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DBOOST_ALL_NO_LIB=1 @CMakeFiles/test_w_supertensor.dir/includes_CXX.rsp  -w -O3 -DNDEBUG   -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -Wall -Wextra -Wcomment -Wendif-labels -Wformat -Winit-self -Wreturn-type -Wsequence-point -Wswitch -Wtrigraphs -Wundef -Wuninitialized -Wunreachable-code -Wunused -Wno-sign-compare -Wno-missing-field-initializers -Wno-deprecated-declarations -pthread -std=c++14 -o CMakeFiles\\test_w_supertensor.dir\\w_supertensor.cpp.obj -c C:\\Users\\Adil\\Desktop\\MLOpen-1-1.5.x\\test\\w_supertensor.cpp",
+  "file": "C:/Users/Adil/Desktop/MLOpen-1-1.5.x/test/w_supertensor.cpp"
+}
+]
