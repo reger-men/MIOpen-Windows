@@ -1,3 +1,5 @@
+# This is not an official release
+
 # MIOpen
 
 AMD's library for high peformance machine learning primitives. MIOpen supports two programming models - 
