@@ -10,19 +10,14 @@ AMD's library for high peformance machine learning primitives. MIOpen supports t
 * [OpenSSL](https://www.openssl.org/) at least version 1.1.0i
 * [Boost](http://www.boost.org/) at least version 1.5x.x
 * You will need also the followng DLLs:
-  * libstdc++-6, ssl, crypto (use 
+  * libstdc++-6, ssl, crypto (use MinGW Installation Manager)
   
 ## Installing the dependencies
 
-The dependencies can be installed with the `install_deps.cmake`, script: `cmake -P install_deps.cmake`
-
-
-This will install by default to `/usr/local` but it can be installed in another location with `--prefix` argument:
-```
-cmake -P install_deps.cmake --prefix /some/local/dir
-```
-
-Instructions to manually install all the dependencies on Ubuntu v16 are present in this [section](#installing-the-dependencies-manually).
+* [MinGW with Boost](requirements/mingw-16.0.exe)
+* [OCL SDK](requirements/OCL_SDK_Light_AMD.exe)
+* [OpenSSL](requirements/win32openssl-1_1_0f.exe)
+* [MinGW Installation Manager](requirements/mingw-get-setup.exe)
 
 ## Building MIOpen from source
 
