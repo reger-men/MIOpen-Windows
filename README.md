@@ -16,7 +16,7 @@ AMD's library for high peformance machine learning primitives. MIOpen supports t
   
 ## Installing the dependencies
 
-* [MinGW with Boost](requirements/mingw-16.0.exe)
+* [MinGW with Boost](requirements/mingw-16.0.exe) Don't forget to set the env. variable ` BOOST_INCLUDEDIR = ...\MinGW\include `
 * [OCL SDK](requirements/OCL_SDK_Light_AMD.exe)
 * [OpenSSL](requirements/win32openssl-1_1_0f.exe)
 * [MinGW Installation Manager](requirements/mingw-get-setup.exe)
