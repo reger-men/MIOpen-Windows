@@ -1,4 +1,4 @@
-# This is not an official release
+# Note: This is not an official release!
 
 # MIOpen
 
