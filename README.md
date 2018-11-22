@@ -12,7 +12,7 @@ AMD's library for high peformance machine learning primitives. MIOpen supports t
 * [OpenSSL](https://www.openssl.org/) at least version 1.1.0i
 * [Boost](http://www.boost.org/) at least version 1.5x.x
 * You will need also the followng DLLs:
-  * libstdc++-6, ssl, crypto (use MinGW Installation Manager)
+  * libstdc++-6, ssl, crypto (use MinGW Installation Manager. Note 32 or 64 bit compatibility)
   
 ## Installing the dependencies
 
