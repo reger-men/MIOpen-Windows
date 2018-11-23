@@ -37,7 +37,8 @@
 #include <vector>
 
 #ifdef __MINGW32__
-#include <mingw.thread.h>
+//#include <mingw.thread.h> 
+#include <pthread.h>
 #else
 #include <thread>
 #endif
