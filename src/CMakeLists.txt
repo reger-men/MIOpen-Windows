@@ -30,6 +30,7 @@ cmake_policy(SET CMP0057 NEW)
 include (GenerateExportHeader)
 
 configure_file("${PROJECT_SOURCE_DIR}/include/miopen/config.h.in" "${PROJECT_BINARY_DIR}/include/miopen/config.h")
+configure_file("${PROJECT_SOURCE_DIR}/include/miopen/miopen.h" "${PROJECT_BINARY_DIR}/include/miopen/miopen.h")
 
 # configure a header file to pass the CMake version settings to the source, and package the header files in the output archive
 configure_file( "${PROJECT_SOURCE_DIR}/include/miopen/version.h.in" "${PROJECT_BINARY_DIR}/include/miopen/version.h" )
